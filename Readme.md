@@ -75,7 +75,3 @@ Ensure your backend API is set up with the following endpoints:
 **Access the application:**
 
 Open your browser and navigate to `http://localhost:5173`.
-
-## License
-
-This project is licensed under the MIT License.
